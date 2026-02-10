@@ -1,0 +1,90 @@
+2026-02-08 14:47:13,246 | INFO | root | Бот Habit Tracker запущен
+2026-02-08 14:47:13,417 | INFO | root | База данных подключена
+2026-02-08 14:47:14,624 | INFO | root | Команды бота установлены
+2026-02-08 14:47:14,631 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-08 14:47:14,632 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-02-08 14:47:14,632 | INFO | apscheduler.scheduler | Scheduler started
+2026-02-08 14:47:14,633 | INFO | root | Планировщик запущен
+2026-02-08 14:47:14,633 | INFO | aiogram.dispatcher | Start polling
+2026-02-08 14:47:15,130 | INFO | aiogram.dispatcher | Run polling for bot @HabitTracke_bot id=8347167918 - 'Habit_TrackerBot'
+2026-02-08 14:47:47,187 | INFO | aiogram.event | Update id=740455265 is handled. Duration 721 ms by bot id=8347167918
+2026-02-08 14:47:52,236 | INFO | aiogram.event | Update id=740455266 is handled. Duration 107 ms by bot id=8347167918
+2026-02-08 14:47:54,286 | INFO | aiogram.event | Update id=740455267 is handled. Duration 221 ms by bot id=8347167918
+2026-02-08 14:47:55,876 | WARNING | habit | User 1522889435 deleted habit 19
+2026-02-08 14:47:56,192 | INFO | aiogram.event | Update id=740455268 is handled. Duration 316 ms by bot id=8347167918
+2026-02-08 14:48:00,015 | INFO | apscheduler.executors.default | Running job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-08 14:49:00 MSK)" (scheduled at 2026-02-08 14:48:00+03:00)
+2026-02-08 14:48:00,015 | INFO | scheduler | Напоминания запущены
+2026-02-08 14:48:00,020 | INFO | apscheduler.executors.default | Job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-08 14:49:00 MSK)" executed successfully
+2026-02-08 14:48:27,530 | INFO | aiogram.event | Update id=740455269 is handled. Duration 712 ms by bot id=8347167918
+2026-02-08 14:48:53,783 | INFO | aiogram.dispatcher | Polling stopped
+2026-02-08 14:48:53,785 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-02-08 14:48:53,785 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8347167918)
+2026-02-08 14:48:54,041 | INFO | aiogram.dispatcher | Polling stopped for bot @HabitTracke_bot id=8347167918 - 'Habit_TrackerBot'
+2026-02-09 14:53:19,513 | INFO | root | Бот Habit Tracker запущен
+2026-02-09 14:53:19,697 | INFO | root | База данных подключена
+2026-02-09 14:53:20,568 | ERROR | asyncio | Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x000001F6544606E0>
+2026-02-09 14:54:51,389 | INFO | root | Бот Habit Tracker запущен
+2026-02-09 14:54:51,499 | INFO | root | База данных подключена
+2026-02-09 14:54:52,547 | INFO | root | Команды бота установлены
+2026-02-09 14:54:52,554 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-09 14:54:52,555 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-02-09 14:54:52,556 | INFO | apscheduler.scheduler | Scheduler started
+2026-02-09 14:54:52,556 | INFO | root | Планировщик запущен 
+2026-02-09 14:54:52,556 | INFO | aiogram.dispatcher | Start polling
+2026-02-09 14:54:52,735 | INFO | aiogram.dispatcher | Run polling for bot @HabitTracke_bot id=8347167918 - 'Habit_TrackerBot'
+2026-02-09 14:55:00,011 | INFO | apscheduler.executors.default | Running job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-09 14:56:00 MSK)" (scheduled at 2026-02-09 14:55:00+03:00)
+2026-02-09 14:55:00,012 | INFO | scheduler | Напоминания запущены
+2026-02-09 14:55:00,023 | INFO | apscheduler.executors.default | Job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-09 14:56:00 MSK)" executed successfully
+2026-02-09 14:55:21,207 | INFO | aiogram.event | Update id=740455270 is handled. Duration 614 ms by bot id=8347167918
+2026-02-09 14:56:00,005 | INFO | apscheduler.executors.default | Running job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-09 14:57:00 MSK)" (scheduled at 2026-02-09 14:56:00+03:00)
+2026-02-09 14:56:00,006 | INFO | scheduler | Напоминания запущены
+2026-02-09 14:56:00,008 | INFO | apscheduler.executors.default | Job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-09 14:57:00 MSK)" executed successfully
+2026-02-09 14:56:00,609 | INFO | aiogram.event | Update id=740455271 is handled. Duration 158 ms by bot id=8347167918
+2026-02-09 14:56:07,095 | INFO | habit | User 1522889435 adding habit: Чтение книг
+2026-02-09 14:56:07,283 | INFO | aiogram.event | Update id=740455272 is handled. Duration 188 ms by bot id=8347167918
+2026-02-09 14:56:28,191 | INFO | aiogram.event | Update id=740455273 is handled. Duration 417 ms by bot id=8347167918
+2026-02-09 14:56:31,885 | INFO | habit | User 1522889435 marked habit 21 as done
+2026-02-09 14:56:32,781 | INFO | aiogram.event | Update id=740455274 is handled. Duration 897 ms by bot id=8347167918
+2026-02-09 14:56:36,992 | INFO | aiogram.event | Update id=740455275 is handled. Duration 410 ms by bot id=8347167918
+2026-02-09 14:56:46,300 | INFO | aiogram.event | Update id=740455276 is handled. Duration 107 ms by bot id=8347167918
+2026-02-09 14:57:00,005 | INFO | apscheduler.executors.default | Running job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-09 14:58:00 MSK)" (scheduled at 2026-02-09 14:57:00+03:00)
+2026-02-09 14:57:00,005 | INFO | scheduler | Напоминания запущены
+2026-02-09 14:57:00,006 | INFO | apscheduler.executors.default | Job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-09 14:58:00 MSK)" executed successfully
+2026-02-09 14:57:21,027 | INFO | aiogram.dispatcher | Polling stopped
+2026-02-09 14:57:21,029 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-02-09 14:57:21,029 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8347167918)
+2026-02-09 14:57:21,282 | INFO | aiogram.dispatcher | Polling stopped for bot @HabitTracke_bot id=8347167918 - 'Habit_TrackerBot'
+2026-02-09 16:10:31,238 | INFO | root | Бот Habit Tracker запущен
+2026-02-09 16:10:31,345 | INFO | root | База данных подключена
+2026-02-09 16:10:33,355 | INFO | root | Команды бота установлены
+2026-02-09 16:10:33,360 | INFO | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-09 16:10:33,361 | INFO | apscheduler.scheduler | Added job "send_reminders" to job store "default"
+2026-02-09 16:10:33,361 | INFO | apscheduler.scheduler | Scheduler started
+2026-02-09 16:10:33,361 | INFO | root | Планировщик запущен 
+2026-02-09 16:10:33,362 | INFO | aiogram.dispatcher | Start polling
+2026-02-09 16:10:33,460 | INFO | aiogram.dispatcher | Run polling for bot @HabitTracke_bot id=8347167918 - 'Habit_TrackerBot'
+2026-02-09 16:10:43,328 | INFO | aiogram.event | Update id=740455277 is handled. Duration 558 ms by bot id=8347167918
+2026-02-09 16:11:00,001 | INFO | apscheduler.executors.default | Running job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-09 16:12:00 MSK)" (scheduled at 2026-02-09 16:11:00+03:00)
+2026-02-09 16:11:00,002 | INFO | scheduler | Напоминания запущены
+2026-02-09 16:11:00,009 | INFO | apscheduler.executors.default | Job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-09 16:12:00 MSK)" executed successfully
+2026-02-09 16:11:06,531 | INFO | aiogram.event | Update id=740455278 is handled. Duration 198 ms by bot id=8347167918
+2026-02-09 16:11:13,987 | INFO | habit | User 1522889435 adding habit: Занятия спортом
+2026-02-09 16:11:14,111 | INFO | aiogram.event | Update id=740455279 is handled. Duration 125 ms by bot id=8347167918
+2026-02-09 16:11:27,224 | INFO | aiogram.event | Update id=740455280 is handled. Duration 722 ms by bot id=8347167918
+2026-02-09 16:11:55,705 | INFO | aiogram.event | Update id=740455281 is handled. Duration 119 ms by bot id=8347167918
+2026-02-09 16:12:00,000 | INFO | apscheduler.executors.default | Running job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-09 16:13:00 MSK)" (scheduled at 2026-02-09 16:12:00+03:00)
+2026-02-09 16:12:00,001 | INFO | scheduler | Напоминания запущены
+2026-02-09 16:12:00,002 | INFO | apscheduler.executors.default | Job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-09 16:13:00 MSK)" executed successfully
+2026-02-09 16:12:27,738 | INFO | aiogram.event | Update id=740455282 is handled. Duration 305 ms by bot id=8347167918
+2026-02-09 16:12:42,295 | INFO | aiogram.event | Update id=740455283 is handled. Duration 118 ms by bot id=8347167918
+2026-02-09 16:12:47,199 | INFO | aiogram.event | Update id=740455284 is handled. Duration 210 ms by bot id=8347167918
+2026-02-09 16:12:56,717 | WARNING | habit | User 1522889435 deleted habit 22
+2026-02-09 16:12:57,125 | INFO | aiogram.event | Update id=740455285 is handled. Duration 408 ms by bot id=8347167918
+2026-02-09 16:13:00,014 | INFO | apscheduler.executors.default | Running job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-09 16:14:00 MSK)" (scheduled at 2026-02-09 16:13:00+03:00)
+2026-02-09 16:13:00,015 | INFO | scheduler | Напоминания запущены
+2026-02-09 16:13:00,016 | INFO | apscheduler.executors.default | Job "send_reminders (trigger: cron[minute='*'], next run at: 2026-02-09 16:14:00 MSK)" executed successfully
+2026-02-09 16:13:11,247 | INFO | aiogram.dispatcher | Polling stopped
+2026-02-09 16:13:11,249 | ERROR | aiogram.dispatcher | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-02-09 16:13:11,249 | WARNING | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8347167918)
+2026-02-09 16:13:11,511 | INFO | aiogram.dispatcher | Polling stopped for bot @HabitTracke_bot id=8347167918 - 'Habit_TrackerBot'
