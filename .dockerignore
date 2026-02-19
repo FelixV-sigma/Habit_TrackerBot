@@ -3,4 +3,4 @@ __pycache__/
 .git
 .gitignore
 logs/
-*.log
+.log
