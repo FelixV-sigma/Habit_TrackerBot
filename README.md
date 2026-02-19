@@ -69,7 +69,11 @@ Habit_TrackerBot/
 
 ## 📸 Скриншоты
 
-
+<p align="center">
+    <img src="images/photo_1.jpg" width="250">
+    <img src="images/photo_2.jpg" width="250">
+    <img src="images/photo_3.jpg" width="250">
+</p>
 
 ---
 
@@ -117,8 +121,7 @@ DB_PASSWORD=postgres
 ## 👨‍💻 Автор
 **Феликс**
 
-Студент прикладной информатики.
-Интересуюсь backend‑разработкой, Python и автоматизацией.
+Студент прикладной информатики
 
 **Мой GitHub: https://github.com/FelixV-sigma**
 
